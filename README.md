@@ -23,7 +23,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 #### Skills : Golang, Python, Java, Kubernetes, HTML, CSS, SQL, Jenkins
 - 👋 Hi, I’m Pratiksha Aggarwal, Software Developer
 - :telescope: I’m working as a Software Engineer and contributing to backend for building applications.
